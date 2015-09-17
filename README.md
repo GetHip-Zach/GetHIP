@@ -2,7 +2,7 @@
 
 Here is the plan for this year. This is all tentative based on how much time we have.
 
-Sept 26: Java History, Environment Setup, Java Basics, Control Structures
+- Sept 26: Java History, Environment Setup, Java Basics, Control Structures
 - Oct 3:	  Object Oriented Programming
 - Oct 10:  Data Structures and Algorithms
 - Oct 17:  Databases & SQL / Winter Project Intro

@@ -20,3 +20,8 @@ To check if your install and setup were successfull, open command prompt and typ
 
 Use the default options when installing Git unless you feel the other options may provide some benefit.
 
+####Notepad++
+This is optional, and you may already have a preferred text editor, but Notepad++ is a very simple, yet powerful, text editor that fully supports most file types.
+
+[Install Notepad++ (latest version)](https://notepad-plus-plus.org/download/)
+

@@ -1,4 +1,4 @@
-##Java JDK Install
+#Java JDK Install
 Install the java JDK from this link (latest version):
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 

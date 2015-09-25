@@ -1,7 +1,7 @@
 ##Java Development Environment Setup
 
 ####Java JDK Install
-[Install the java JDK (latest version)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+[Install the Java JDK (latest version)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 Once the JDK is installed it will be helpful to add the JDK's bin folder to the System variable path.
 

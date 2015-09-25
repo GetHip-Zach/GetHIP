@@ -1,4 +1,5 @@
-##GET HIP Java Development Environtment Install and Configuration.
+##Java Development Environment Setup.
+
 ####Java JDK Install
 Install the java JDK from this link (latest version):
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
@@ -15,4 +16,9 @@ Once the JDK is installed it will be helpful to add the JDK's bin folder to the 
 
 To check if your install and setup were successfull, open command prompt and type the command *java -version* and *javac -version*.
 
+####Git Install
+Install the Git client from this link (latest version):
+https://git-scm.com/download/
+
+Use the default options when installing Git unless you think the other options may provide some benefit.
 

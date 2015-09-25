@@ -1,4 +1,5 @@
-#Java JDK Install
+##GET HIP Java Development Environtment Install and Configuration.
+####Java JDK Install
 Install the java JDK from this link (latest version):
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
@@ -13,4 +14,5 @@ Once the JDK is installed it will be helpful to add the JDK's bin folder to the 
   6. Add a semicolon *;* to the end of the *Variable value* and then add the location of your JDK's bin directory. ex. "C:\Program Files\Java\jdk1.8.0_45\bin"
 
 To check if your install and setup were successfull, open command prompt and type the command *java -version* and *javac -version*.
+
 

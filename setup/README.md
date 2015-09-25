@@ -18,5 +18,5 @@ To check if your install and setup were successfull, open command prompt and typ
 ####Git Install
 [Install the Git client (latest version)](https://git-scm.com/download/)
 
-Use the default options when installing Git unless you think the other options may provide some benefit.
+Use the default options when installing Git unless you feel the other options may provide some benefit.
 

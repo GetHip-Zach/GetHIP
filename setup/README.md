@@ -1,4 +1,4 @@
-##Java Development Environment Setup.
+##Java Development Environment Setup
 
 ####Java JDK Install
 Install the java JDK from this link (latest version):

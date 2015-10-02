@@ -20,8 +20,9 @@ Instructors - Zach Merrill <zach_merrill@gallup.com>
 Requirements:
 
         1. Create an abstract class named Shape.java containing the following:
-		- String shapeType, will be "Triangle", "Quadrilateral" or "Circle"
-		- String shapeName, will be name of the shape i.e. "Rectangle" or "Rhombus"
+		- private String shapeType, will be "Triangle", "Quadrilateral" or "Circle"
+		- Getter and setter for shapeType variable, named getShapeType() and setShapeName(String type)
+		- private String shapeName, will be name of the shape i.e. "Rectangle" or "Rhombus"
 		- Getter and setter for shapeName variable, named getShapeName() and setShapeName(String name)
 		- Method getArea() which returns the area as a double
 

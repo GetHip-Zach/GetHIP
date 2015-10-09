@@ -11,6 +11,6 @@ public class Manager extends Employee{
 
 	@Override
 	public double pay(){
-		return salary / 24;
+		return this.salary / 24;
 	}	
 }

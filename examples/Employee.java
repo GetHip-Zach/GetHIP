@@ -8,9 +8,9 @@ public abstract class Employee implements Payable
 	public int EmployeeID;
 
 	public Employee(String first, String last, int id){
-		FirstName = first;
-		LastName = last;
-		EmployeeID = id;
+		this.FirstName = first;
+		this.LastName = last;
+		this.EmployeeID = id;
 	}
 
 	//public abstract double payEmployee();

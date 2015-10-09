@@ -1,0 +1,91 @@
+GetHIP - Fall 2015
+Assignment 2 - "Shapes"
+Instructors - Zach Merrill <zach_merrill@gallup.com>
+              James Getrost <james_getrost@gallup.com>
+
++----Description--------------------------------------------------------------------------------------------------------+
+| You are contracted to work with the local university to write scientific software for the exciting research		|
+| field of basic geometry. You will model 5 shapes and provide researchers with the ability to calculate areas		|
+| and display statistics on the fly.											|
+| There are high expectations for quality and we will be grading your software based on three criteria:	                |
+|                                                                                                                       |
+|       1. All requirements must be met                                                                                 |
+|       2. Quality of code and comments                                                                                 |
+|       3. Number of bugs                                                                                               |
+|                                                                                                                       |
+| Programs must compile to be accepted.                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------+
+
+
+Requirements:
+
+        1. Create an abstract class named Shape.java containing the following:
+		- private String shapeType, will be "Triangle", "Quadrilateral" or "Circle"
+		- Getter and setter for shapeType variable, named getShapeType() and setShapeType(String type)
+		- private String shapeName, will be name of the shape i.e. "Rectangle" or "Rhombus"
+		- Getter and setter for shapeName variable, named getShapeName() and setShapeName(String name)
+		- Method getArea() which returns the area as a double
+
+	2. Create an interface called Printable.java containing the following:
+		- Method printDescription() which prints out all attributes of the shape
+                
+        3. Create five classes that extend Shape and implement Printable
+		- Circle.java
+		- Triangle.java
+		- Rectangle.java
+		- Rhombus.java
+		- Trapezoid.java
+
+        4. You will need to create extra variables to store the properties of each shape.
+	   To ensure consistancy, the constructors have been provided:
+		- public Circle(int radius){ ... }
+		- public Triangle(int base, int height){ ... }
+		- public Rectangle(int height, int width){ ... }
+		- public Rhombus(int diagonalA, int diagonalB){ ... }
+		- public Trapezoid(int baseA, int baseB, int height){ ... }
+
+        5. The main method class will be provided for you in a seperate file
+
+Notes:
+	- Area of a circle = pi * r^2
+	- Area of a triangle = (h * b) / 2
+	- Area of a rectangle = h * w
+	- Area of a rhombus = (d1 * d2) / 2
+	- Area of a trapezoid = ((b1 + b2) / 2) * h
+
+	- Make sure your method names match the method names in the runner if you see errors when compiling
+
+Example output:
+
+Calculating circle area:
+Area = 113.1
+Printing circle description:
+Type is Circle. 
+Radius is 6 units.
+
+Calculating triangle area:
+Area = 12
+Printing triangle description:
+Type is Triangle.
+Base is 6 units.
+Height is 4 units.
+
+Calculating rectangle area:
+Area = 24
+Printing rectangle description:
+Type is Quadrilateral.
+Height is 8 units.
+Width is 3 units.
+
+Calculating Rhombus area:
+Area = 15
+Type is Quadrilateral.
+Diagonal A is 6 units.
+Diagonal B is 5 units.
+
+Calculating Trapezoid area:
+Area = 35
+Type is Quadrilateral.
+Base A is 4.
+Base B is 10.
+Height is 5.

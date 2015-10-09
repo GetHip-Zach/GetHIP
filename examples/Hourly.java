@@ -13,7 +13,7 @@ public class Hourly extends Employee {
 
 	@Override
 	public double pay(){
-		return wage*hoursWorked;
+		return this.wage * this.hoursWorked;
 	}
 
 	public void setHoursWorked(int hours){

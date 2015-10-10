@@ -79,12 +79,14 @@ Width is 3 units.
 
 Calculating Rhombus area:
 Area = 15
+Printing rhombus description:
 Type is Quadrilateral.
 Diagonal A is 6 units.
 Diagonal B is 5 units.
 
 Calculating Trapezoid area:
 Area = 35
+Printing trapezoid description:
 Type is Quadrilateral.
 Base A is 4.
 Base B is 10.

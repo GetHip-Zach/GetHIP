@@ -1,0 +1,43 @@
+GetHIP - Fall 2015
+Assignment 3 - "Shape Sort"
+Instructors - Zach Merrill <zach_merrill@gallup.com>
+              James Getrost <james_getrost@gallup.com>
+
++----Description--------------------------------------------------------------------------------------------------------+
+| You will be building on assignment two by providing a method that will sort a list of shapes by area from		|
+| smallest to largest.		                                                                                        |
+| There are high expectations for quality and we will be grading your software based on three criteria:                 |
+|                                                                                                                       |
+|       1. All requirements must be met                                                                                 |
+|       2. Quality of code and comments                                                                                 |
+|       3. Number of bugs                                                                                               |
+|                                                                                                                       |
+| Programs must compile to be accepted.                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------+
+
+
+Requirements:
+
+        1. Use the Shape abstract class and the subclasses created in assignment 2
+
+	2. Create a second runner class that will contain the main method and a private
+	   sort method
+
+	3. Implement one of the three sort methods discussed in class (Insertion, Selection or Bubble)
+
+	4. Once the list is sorted print out each shape's description and area in sorted order
+
+	5. Be sure to comment in your code which sort algorithm you used and the complexity of your code
+
+Notes:
+	
+	You will need to create and populate the array with shapes. Use at least one of each type and 
+	create them out of order.
+
+	For bonus points try to read your shape data in from a file!
+
+Example Output:
+	
+	(Ommitted. This will be different for each program)
+
+	

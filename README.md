@@ -15,3 +15,7 @@ Your instructors are
 - James Getrost <james_getrost@gallup.com>
 
 **Don't hesitate to ask any questions you have.**
+
+#### Update 11/3/2015: Please see the Jersey example project here
+
+https://github.com/GetHip-Zach/JerseyExample

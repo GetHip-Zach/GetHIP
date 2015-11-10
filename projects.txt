@@ -1,0 +1,12 @@
+GetHip Winter Project Ideas
+
+Dash - social media scraper. Parent accounts with username/password
+Jacob - tutor admin. Users, sessions, tutor relationships
+Nolan - turnItIn classroom helper. Users, assignments
+Harley - course scheduler. course catalog, degree requirements
+Thomas - high school scheduler. users, districts class
+Michael - golfers. users, scores, golfers, courses, scores
+Spencer - stores damage out product. food pantry 
+Ben - Coaches cross country times. coach accoutns
+Brain - What to watch app. User about myself 
+Martin - Swimmer lane time. Resources user, times, events

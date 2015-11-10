@@ -19,3 +19,9 @@ Your instructors are
 #### Update 11/3/2015: Please see the Jersey example project here
 
 https://github.com/GetHip-Zach/JerseyExample
+
+#### Update 11/10/2015: Please see the Winter Project skeleton here
+
+https://github.com/GetHip-Zach/JerseyORMlite
+
+Also, project requirements have been added to the homework folder.

@@ -25,3 +25,7 @@ https://github.com/GetHip-Zach/JerseyExample
 https://github.com/GetHip-Zach/JerseyORMlite
 
 Also, project requirements have been added to the homework folder.
+
+https://classroom.github.com/group-assignment-invitations/38d0f0624df94baaf432c7dc97ce9537
+
+
